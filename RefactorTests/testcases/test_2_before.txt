@@ -1,0 +1,5902 @@
+﻿{
+  "warningMessage": "",
+  "analytics": {
+    "totalItems": "31003",
+    "totalPages": 776
+  },
+  "department": "women",
+  "items": [
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "PETER PILOTTO",
+      "cod10": "37879216VN",
+      "formattedDiscountedPrice": "EUR 356,00",
+      "formattedFullPrice": "EUR 356,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "ROCHAS",
+      "cod10": "37838750VX",
+      "formattedDiscountedPrice": "EUR 418,00",
+      "formattedFullPrice": "EUR 418,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "3.1 PHILLIP LIM",
+      "cod10": "37886397CL",
+      "formattedDiscountedPrice": "EUR 306,00",
+      "formattedFullPrice": "EUR 306,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "8",
+      "cod10": "37829430QE",
+      "formattedDiscountedPrice": "EUR 103,00",
+      "formattedFullPrice": "EUR 148,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "GEORGE J. LOVE",
+      "cod10": "37849923CP",
+      "formattedDiscountedPrice": "EUR 37,00",
+      "formattedFullPrice": "EUR 60,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "3.1 PHILLIP LIM",
+      "cod10": "37885746RR",
+      "formattedDiscountedPrice": "EUR 441,00",
+      "formattedFullPrice": "EUR 441,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "PLV_JUST IN",
+        "img": "http://cdn2.yoox.biz/yoox14/sections/sr/badge/badge_new.png",
+        "promotionLabel": "Questo articolo è escluso da tutte le promozioni.",
+        "active": true
+      },
+      "brand": "DRIES VAN NOTEN",
+      "cod10": "37873634EK",
+      "formattedDiscountedPrice": "EUR 218,00",
+      "formattedFullPrice": "EUR 218,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MARQUES ALMEIDA",
+      "cod10": "42512049TS",
+      "formattedDiscountedPrice": "EUR 170,00",
+      "formattedFullPrice": "EUR 170,00",
+      "title": "",
+      "microCategory": "T-shirt",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MARKUS LUPFER",
+      "cod10": "37840694WT",
+      "formattedDiscountedPrice": "EUR 216,00",
+      "formattedFullPrice": "EUR 216,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "PETER PILOTTO",
+      "cod10": "37886789VV",
+      "formattedDiscountedPrice": "EUR 263,00",
+      "formattedFullPrice": "EUR 263,00",
+      "title": "",
+      "microCategory": "Felpa",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "8",
+      "cod10": "37832121QP",
+      "formattedDiscountedPrice": "EUR 40,00",
+      "formattedFullPrice": "EUR 78,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "8",
+      "cod10": "37795961ND",
+      "formattedDiscountedPrice": "EUR 128,00",
+      "formattedFullPrice": "EUR 238,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MARNI",
+      "cod10": "37794410AU",
+      "formattedDiscountedPrice": "EUR 116,00",
+      "formattedFullPrice": "EUR 148,00",
+      "title": "",
+      "microCategory": "T-shirt",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MARNI",
+      "cod10": "37823166NH",
+      "formattedDiscountedPrice": "EUR 197,00",
+      "formattedFullPrice": "EUR 271,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MAISON MARGIELA 1",
+      "cod10": "37813099XG",
+      "formattedDiscountedPrice": "EUR 204,00",
+      "formattedFullPrice": "EUR 325,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "ACNE STUDIOS",
+      "cod10": "37869228XX",
+      "formattedDiscountedPrice": "EUR 195,00",
+      "formattedFullPrice": "EUR 195,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MICHAEL MICHAEL KORS",
+      "cod10": "37782346RT",
+      "formattedDiscountedPrice": "EUR 112,00",
+      "formattedFullPrice": "EUR 144,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "PROENZA SCHOULER",
+      "cod10": "37790983SH",
+      "formattedDiscountedPrice": "EUR 134,00",
+      "formattedFullPrice": "EUR 269,00",
+      "title": "",
+      "microCategory": "T-shirt",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "JIL SANDER",
+      "cod10": "38510959UK",
+      "formattedDiscountedPrice": "EUR 262,00",
+      "formattedFullPrice": "EUR 416,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "SEE BY CHLOÉ",
+      "cod10": "37882001NE",
+      "formattedDiscountedPrice": "EUR 114,00",
+      "formattedFullPrice": "EUR 114,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MAURO GRIFONI",
+      "cod10": "37853431DL",
+      "formattedDiscountedPrice": "EUR 119,00",
+      "formattedFullPrice": "EUR 119,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "DOLCE & GABBANA",
+      "cod10": "37865588TC",
+      "formattedDiscountedPrice": "EUR 146,00",
+      "formattedFullPrice": "EUR 146,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "PROENZA SCHOULER",
+      "cod10": "37784350GN",
+      "formattedDiscountedPrice": "EUR 261,00",
+      "formattedFullPrice": "EUR 523,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MSGM",
+      "cod10": "37776949GU",
+      "formattedDiscountedPrice": "EUR 157,00",
+      "formattedFullPrice": "EUR 213,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "ACNE STUDIOS",
+      "cod10": "37792259BO",
+      "formattedDiscountedPrice": "EUR 135,00",
+      "formattedFullPrice": "EUR 186,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "PLV_JUST IN",
+        "img": "http://cdn2.yoox.biz/yoox14/sections/sr/badge/badge_new.png",
+        "promotionLabel": "Questo articolo è escluso da tutte le promozioni.",
+        "active": true
+      },
+      "brand": "DOLCE & GABBANA",
+      "cod10": "37888864HS",
+      "formattedDiscountedPrice": "EUR 185,00",
+      "formattedFullPrice": "EUR 185,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "GEORGE J. LOVE",
+      "cod10": "37845912XN",
+      "formattedDiscountedPrice": "EUR 32,00",
+      "formattedFullPrice": "EUR 65,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "GEORGE J. LOVE",
+      "cod10": "37842263RR",
+      "formattedDiscountedPrice": "EUR 70,00",
+      "formattedFullPrice": "EUR 100,00",
+      "title": "",
+      "microCategory": "Felpa",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "LOVE MOSCHINO",
+      "cod10": "37863374WX",
+      "formattedDiscountedPrice": "EUR 195,00",
+      "formattedFullPrice": "EUR 195,00",
+      "title": "",
+      "microCategory": "Felpa",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "COSTUME NATIONAL",
+      "cod10": "37823810MG",
+      "formattedDiscountedPrice": "EUR 160,00",
+      "formattedFullPrice": "EUR 211,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MICHAEL MICHAEL KORS",
+      "cod10": "37867211DB",
+      "formattedDiscountedPrice": "EUR 123,00",
+      "formattedFullPrice": "EUR 123,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MAISON MARGIELA 1",
+      "cod10": "37809582MG",
+      "formattedDiscountedPrice": "EUR 123,00",
+      "formattedFullPrice": "EUR 162,00",
+      "title": "",
+      "microCategory": "T-shirt",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "CAPITOL COUTURE by TRISH SUMMERVILLE",
+      "cod10": "37847585LX",
+      "formattedDiscountedPrice": "EUR 22,00",
+      "formattedFullPrice": "EUR 40,00",
+      "title": "",
+      "microCategory": "T-shirt",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "ACNE STUDIOS",
+      "cod10": "37868932DK",
+      "formattedDiscountedPrice": "EUR 126,00",
+      "formattedFullPrice": "EUR 126,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "PLV_JUST IN",
+        "img": "http://cdn2.yoox.biz/yoox14/sections/sr/badge/badge_new.png",
+        "promotionLabel": "Questo articolo è escluso da tutte le promozioni.",
+        "active": true
+      },
+      "brand": "EMILIO PUCCI",
+      "cod10": "37843308OF",
+      "formattedDiscountedPrice": "EUR 269,00",
+      "formattedFullPrice": "EUR 269,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MOSCHINO CHEAPANDCHIC",
+      "cod10": "37868839CN",
+      "formattedDiscountedPrice": "EUR 178,00",
+      "formattedFullPrice": "EUR 178,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MARC BY MARC JACOBS",
+      "cod10": "37846967MB",
+      "formattedDiscountedPrice": "EUR 121,00",
+      "formattedFullPrice": "EUR 121,00",
+      "title": "",
+      "microCategory": "Top",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "3.1 PHILLIP LIM",
+      "cod10": "37866452AD",
+      "formattedDiscountedPrice": "EUR 255,00",
+      "formattedFullPrice": "EUR 255,00",
+      "title": "",
+      "microCategory": "Felpa",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "LOVE MOSCHINO",
+      "cod10": "37881855XF",
+      "formattedDiscountedPrice": "EUR 166,00",
+      "formattedFullPrice": "EUR 166,00",
+      "title": "",
+      "microCategory": "Felpa",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "SEE BY CHLOÉ",
+      "cod10": "37868329AQ",
+      "formattedDiscountedPrice": "EUR 190,00",
+      "formattedFullPrice": "EUR 190,00",
+      "title": "",
+      "microCategory": "T-shirt",
+      "soldOut": false
+    }
+  ],
+  "refinements": {
+    "breadCrumbs": {
+      "breadcrumbs": [
+        {
+          
+        },
+        {
+          
+        },
+        {
+          
+        },
+        {
+          
+        },
+        {
+          
+        },
+        {
+          
+        }
+      ]
+    },
+    "filters": {
+      "attributes": [
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "jstn3",
+              "value": "Ultimi arrivi",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "clthngpdw",
+          "value": "Ultime news",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "",
+              "value": "",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "przz",
+          "value": "Prezzo",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ccssrprc",
+                  "value": "Accessori per capelli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gndtccnn",
+                  "value": "Agende & Taccuini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bvgln",
+                  "value": "Bavaglini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "brtll",
+                  "value": "Bretelle",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cppll",
+                  "value": "Cappelli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "csc",
+                  "value": "Caschi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cntr",
+                  "value": "Cinture",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cll",
+                  "value": "Colli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "crvtt",
+                  "value": "Cravatte",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ftnssnw",
+                  "value": "Fitness",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "flrd",
+                  "value": "Foulard",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gmbl",
+                  "value": "Gambali",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "grmng",
+                  "value": "Grooming",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gnt",
+                  "value": "Guanti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "drglggttnw",
+                  "value": "Idee regalo & Oggettistica",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "mnch2",
+                  "value": "Maniche",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cchl1",
+                  "value": "Occhiali da sole",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "mbrll",
+                  "value": "Ombrelli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pplln",
+                  "value": "Papillon",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pcclpllt1",
+                  "value": "Piccola Pelletteria",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "plsn",
+                  "value": "Polsini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "scll",
+                  "value": "Scialli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "scrpwmn",
+                  "value": "Sciarpe",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "stl",
+                  "value": "Stole",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "ccssr",
+              "value": "Accessori",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lbrr",
+                  "value": "Librerie",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "mblprbmb",
+                  "value": "Mobili per Bambini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pcclmbl",
+                  "value": "Piccoli Mobili",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pltrnslc",
+                  "value": "Poltrone",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "sdt",
+                  "value": "Sedute",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "sgbll",
+                  "value": "Sgabelli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tvl",
+                  "value": "Tavoli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tvln",
+                  "value": "Tavolini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "rrdmnt",
+              "value": "Arredi",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ftgrf1",
+                  "value": "Fotografia",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prvncntt",
+                  "value": "Provini a contatto",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "stmp",
+                  "value": "Stampe",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "rt1",
+              "value": "Arte",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "brsmn",
+                  "value": "Borse a mano",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "brsspll",
+                  "value": "Borse a spalla",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "brstrcll",
+                  "value": "Borse a tracolla",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "brsdlvr",
+                  "value": "Borse da lavoro",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vlg1",
+                  "value": "Valigie",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "znmrsp",
+                  "value": "Zaini & Marsupi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "brs",
+              "value": "Borse",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bls",
+                  "value": "Bluse",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cmc1",
+                  "value": "Camicie",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cmctpst",
+                  "value": "Camicie e Top in Seta",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cftn",
+                  "value": "Tuniche e Caftani",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "cmc",
+              "value": "Camicie",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bkr1",
+                  "value": "Biker",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bmbr1",
+                  "value": "Bomber",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cbn1",
+                  "value": "Caban",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cpptt",
+                  "value": "Cappotti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gcc",
+                  "value": "Giacche",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "glt1",
+                  "value": "Gilet",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gbbtt",
+                  "value": "Giubbotti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gbbttpll",
+                  "value": "Giubbotti Pelle",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "mntll",
+                  "value": "Mantelle",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "mntgmr1",
+                  "value": "Montgomery",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "mntn2",
+                  "value": "Montone",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prk1",
+                  "value": "Parka",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pllccclg",
+                  "value": "Pellicce ecologiche",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pmn",
+                  "value": "Piumini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "sprbt",
+                  "value": "Soprabiti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "trnch1",
+                  "value": "Trench",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "cpspll",
+              "value": "Cappotti e Giubbotti",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cntrlt",
+                  "value": "Cinture Alte",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cntrrglr",
+                  "value": "Cinture Regular",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cntrsttl",
+                  "value": "Cinture Sottili",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "cntr2",
+              "value": "Cinture",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ccssr1",
+                  "value": "Accessori",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ppndbt",
+                  "value": "Appendiabiti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cndlbr",
+                  "value": "Candelabri",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cndl",
+                  "value": "Candele",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cntntr",
+                  "value": "Contenitori",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "crnc",
+                  "value": "Cornici",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cscn1",
+                  "value": "Cuscini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "dcr",
+                  "value": "Decori",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "frgrnzpr",
+                  "value": "Fragranze per ambiente",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ggttstc",
+                  "value": "Oggettistica",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rlg3",
+                  "value": "Orologi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pttdcrtv",
+                  "value": "Piatti Decorativi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pld1",
+                  "value": "Plaid",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "spcch",
+                  "value": "Specchi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tppt",
+                  "value": "Tappeti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vs",
+                  "value": "Vasi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "cmplmntr",
+              "value": "Complementi d'arredo",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lncrp",
+                  "value": "Linea Corpo",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prfm",
+                  "value": "Profumi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "smlt1",
+                  "value": "Smalti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "csmtc",
+              "value": "Cosmetici",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ccssrdcc1",
+                  "value": "Accessori da cucina",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntl1",
+                  "value": "Pentole",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tnslprcc",
+                  "value": "Utensili per la cucina",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "ccn",
+              "value": "Cucina",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cmpsé",
+                  "value": "Composé",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gcc1",
+                  "value": "Giacche",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tllr",
+                  "value": "Tailleur",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "cmplt",
+              "value": "Giacche e Completi",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "nll",
+                  "value": "Anelli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bdjwl",
+                  "value": "Body Jewels",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "brccl",
+                  "value": "Bracciali",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cndl1",
+                  "value": "Ciondoli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "clln",
+                  "value": "Collane",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gmll",
+                  "value": "Gemelli e Fermacravatte",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "hdpc",
+                  "value": "Headpieces",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rcchn",
+                  "value": "Orecchini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rcchn1",
+                  "value": "Orecchino",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rlgdpls1",
+                  "value": "Orologi da polso",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prr",
+                  "value": "Parure",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prtgll",
+                  "value": "Porta gioielli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "spll",
+                  "value": "Spille",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "gll",
+              "value": "Gioielli",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gnngncch",
+                  "value": "Gonne ginocchio",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gnnlngtt",
+                  "value": "Gonne longuette",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gnnlng",
+                  "value": "Gonne lunghe",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "mngnn",
+                  "value": "Minigonne",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "gnn",
+              "value": "Gonne",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ccssrhtc",
+                  "value": "Accessori Hi-Tech",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cssd",
+                  "value": "Audio",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cff",
+                  "value": "Cuffie",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ftgrf2",
+                  "value": "Fotografia",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "htch",
+              "value": "Hi-Tech",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lmpdsspn",
+                  "value": "Lampade a sospensione",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lmpddprt",
+                  "value": "Lampade da parete",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lmpddtvl",
+                  "value": "Lampade da tavolo",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lmpddtrr",
+                  "value": "Lampade da terra",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "llmnzn",
+              "value": "Illuminazione",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cmcjns",
+                  "value": "Camicie jeans",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cpsplljn",
+                  "value": "Giubbotti jeans",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gnnjns",
+                  "value": "Gonne jeans",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntlnjns",
+                  "value": "Pantaloni jeans",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "shrtsjns",
+                  "value": "Shorts jeans",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "jns",
+              "value": "Jeans e Denim",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ccssrprl1",
+                  "value": "Accessori per il Bagno",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tsslbgn",
+                  "value": "Tessili per il Bagno",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tsslltt",
+                  "value": "Tessili per il Letto",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "lttbgn1",
+              "value": "Letto e Bagno",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rchtttr",
+                  "value": "Architettura e Design",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rt",
+                  "value": "Arte",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lbrprbmb",
+                  "value": "Libri per bambini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lfstl",
+                  "value": "Lifestyle",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "md",
+                  "value": "Moda",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "lbr",
+              "value": "Libri",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bd",
+                  "value": "Body",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bstr",
+                  "value": "Bustier",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "clz",
+                  "value": "Calze",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "clzn",
+                  "value": "Calzini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cmcdntt",
+                  "value": "Camicie da notte",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cntt",
+                  "value": "Canotte",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "crdnt",
+                  "value": "Coordinati",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cltts",
+                  "value": "Culottes",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "gpr",
+                  "value": "Guepiere",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "mglntm",
+                  "value": "Maglie intime",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "przm",
+                  "value": "Perizoma",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pgm",
+                  "value": "Pigiami",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rggclz",
+                  "value": "Reggicalze",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rggsn",
+                  "value": "Reggiseni",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "slp",
+                  "value": "Slip",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "sttvst",
+                  "value": "Sottovesti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tshrtntm",
+                  "value": "T-shirt intime",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vstgl",
+                  "value": "Vestaglie",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "ntm",
+              "value": "Lingerie",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "crdgn",
+                  "value": "Cardigan",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cprspll1",
+                  "value": "Coprispalle",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "dlcvt",
+                  "value": "Dolcevita",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "flp1",
+                  "value": "Felpe",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "mglncchm",
+                  "value": "Maglie in Cachemire",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pllvr",
+                  "value": "Pullover",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "scldcr",
+                  "value": "Scaldacuore",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "twnst",
+                  "value": "Twin set",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "mglr",
+              "value": "Maglie e Felpe",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ccppt",
+                  "value": "Accappatoi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ccssrnt",
+                  "value": "Accessori Nuoto",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bkn",
+                  "value": "Bikini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bxrdmr",
+                  "value": "Boxer da mare",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cprcstm",
+                  "value": "Copricostumi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cstmntr",
+                  "value": "Costumi interi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cstmgr",
+                  "value": "Costumi sportivi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntlndmr",
+                  "value": "Pantaloni da mare",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pr",
+                  "value": "Parei",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rggsnmr",
+                  "value": "Reggiseni mare",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "slpmr",
+                  "value": "Slip mare",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tlmr",
+                  "value": "Teli mare",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "mrpscn",
+              "value": "Mare & Piscina",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cchldsl",
+                  "value": "Occhiali da sole",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "cchl",
+              "value": "Occhiali da sole",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rlgdpls",
+                  "value": "Orologi da polso",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "rlg",
+              "value": "Orologi",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lggngs",
+                  "value": "Leggings",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntln1",
+                  "value": "Pantaloni",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntlncmp1",
+                  "value": "Pantaloni a campana",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntlncpr",
+                  "value": "Pantaloni capri",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntlncls",
+                  "value": "Pantaloni classici",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntlndrt1",
+                  "value": "Pantaloni dritti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntlnflp",
+                  "value": "Pantaloni felpa",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntlnpll1",
+                  "value": "Pantaloni pelle",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntlnspr1",
+                  "value": "Pantaloni sportivi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntlntpr1",
+                  "value": "Pantaloni tapered",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "shrts",
+                  "value": "Shorts",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "pntln",
+              "value": "Pantaloni",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cntr1",
+                  "value": "Cinture",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prtgnd1",
+                  "value": "Porta agenda",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prtchv1",
+                  "value": "Portachiavi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prtdcmnt1",
+                  "value": "Portadocumenti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prtfgl1",
+                  "value": "Portafogli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prtssgn1",
+                  "value": "Portassegni",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "pcclpllt",
+              "value": "Piccola Pelletteria",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bllrn",
+                  "value": "Ballerine",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bkrbts",
+                  "value": "Biker Boots",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "chlbts",
+                  "value": "Chelsea boots",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "dcllts",
+                  "value": "Décolleté",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "spdrlls",
+                  "value": "Espadrillas",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "nfrdt",
+                  "value": "Infradito",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "mcssn",
+                  "value": "Mocassini",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ml",
+                  "value": "Mule",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pntfl",
+                  "value": "Pantofole",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "sndl",
+                  "value": "Sandali",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "slpn",
+                  "value": "Slip on",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "snkrstnn",
+                  "value": "Sneakers alte",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "snkrstnn1",
+                  "value": "Sneakers basse",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "stvltt",
+                  "value": "Stivaletti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "stvl",
+                  "value": "Stivali",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "strngt",
+                  "value": "Stringate",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "clztr",
+              "value": "Scarpe",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ccssrprl",
+                  "value": "Accessori per la tavola",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "brwn",
+                  "value": "Bar & Wine",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bcchr",
+                  "value": "Bicchieri",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cntrtvl",
+                  "value": "Centrotavola e Vassoi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ptt",
+                  "value": "Piatti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pst",
+                  "value": "Posate",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tècffè",
+                  "value": "Tè & Caffè",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tsslccn",
+                  "value": "Tessili per la tavola",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "tvlccn",
+              "value": "Tavola",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cprtnbmb",
+                  "value": "Copertine bimbo",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lnzlbmb",
+                  "value": "Lenzuola bimbo",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "tssl",
+              "value": "Tessile",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cprspll",
+                  "value": "Coprispalle",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "flp",
+                  "value": "Felpe",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "pl",
+                  "value": "Polo",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tp",
+                  "value": "Top",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tpfsc",
+                  "value": "Top a fascia",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tpnst",
+                  "value": "Top in seta",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "tshrt",
+                  "value": "T-shirt",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "tpwr",
+              "value": "T-Shirt e Top",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": true
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "slptt1",
+                  "value": "Salopette",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ttsprtv",
+                  "value": "Tute Sportive",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ttnpc",
+                  "value": "Tute/One Piece",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "slptt",
+              "value": "Tute e Salopette",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "btcs",
+                  "value": "Beauty case",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "brsn",
+                  "value": "Borsoni",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prtbt",
+                  "value": "Porta abiti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "trll",
+                  "value": "Trolley",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vlg",
+                  "value": "Valigie",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "vlgr",
+              "value": "Valigeria",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "prtdrss",
+                  "value": "Party Dress",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vsttgncc",
+                  "value": "Vestiti al ginocchio",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vsttcrmn",
+                  "value": "Vestiti Cerimonia",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vsttcrt",
+                  "value": "Vestiti corti",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vsttmr",
+                  "value": "Vestiti da mare",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vsttnmgl",
+                  "value": "Vestiti in Maglia",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vsttnst",
+                  "value": "Vestiti in Seta",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vsttlngt",
+                  "value": "Vestiti longuette",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vsttlng",
+                  "value": "Vestiti lunghi",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vsttprlf",
+                  "value": "Vestiti per l'ufficio",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vstttbn",
+                  "value": "Vestito Tubino",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "vstt",
+              "value": "Vestiti",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "ctgr",
+          "value": "Categorie",
+          "rgb": "",
+          "refinements": [
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lngthslv",
+                  "value": "Maniche 3/4",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "shrtslvs",
+                  "value": "Maniche corte",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "lngslvs",
+                  "value": "Maniche lunghe",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "slvlss",
+                  "value": "Senza maniche",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "slvs",
+              "value": "Maniche",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "thrnckln",
+                  "value": "Altri Colli",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "plcllr",
+                  "value": "Collo a polo",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vnckln",
+                  "value": "Collo a V",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "trtlnck",
+                  "value": "Collo alto",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "bwcllr",
+                  "value": "Collo con fiocco",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "crwnckln",
+                  "value": "Girocollo",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "nck",
+              "value": "Collo",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "selected": true
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "4",
+              "value": "ALBERTA FERRETTI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "220",
+              "value": "ALBERTO BIANI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "5",
+              "value": "ALESSANDRO DELL'ACQUA",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "174",
+              "value": "ALLEGRI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "204",
+              "value": "ANNA MOLINARI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "129",
+              "value": "ANN DEMEULEMEESTER",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "212",
+              "value": "ANTIK BATIK",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "223",
+              "value": "ANTONIO BERARDI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "135",
+              "value": "ARMANI JEANS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "221",
+              "value": "BALENCIAGA",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "8",
+              "value": "BELLA FREUD",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "103",
+              "value": "BLUMARINE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "191",
+              "value": "BLUMARINE JEANS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "249",
+              "value": "BURBERRY LONDON",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "9",
+              "value": "BYBLOS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "12",
+              "value": "CALVIN KLEIN JEANS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "210",
+              "value": "CÉLINE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "215",
+              "value": "CHLOÉ",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "17",
+              "value": "COMME des GARÇONS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "89",
+              "value": "CONTE OF FLORENCE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "19",
+              "value": "COSTUME NATIONAL",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "246",
+              "value": "COURRÈGES",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "260",
+              "value": "CUSTO BARCELONA",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "236",
+              "value": "C.P. COMPANY",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "125",
+              "value": "DIESEL",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "98",
+              "value": "DIVINA",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "24",
+              "value": "DKNY",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "25",
+              "value": "DOLCE & GABBANA",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "27",
+              "value": "DONNA KARAN",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "28",
+              "value": "DRIES VAN NOTEN",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "21",
+              "value": "D&G",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "29",
+              "value": "EMILIO PUCCI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "128",
+              "value": "EMPORIO ARMANI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "30",
+              "value": "ETRO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "33",
+              "value": "EXTE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "34",
+              "value": "FABRIZIO DEL CARLO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "175",
+              "value": "FAY",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "35",
+              "value": "FENDI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "40",
+              "value": "FERRE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "38",
+              "value": "GAI MATTIOLO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "93",
+              "value": "GATTINONI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "243",
+              "value": "GENNY",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "150",
+              "value": "GIORGIO ARMANI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "42",
+              "value": "GUCCI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "43",
+              "value": "GUESS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "181",
+              "value": "HACHE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "44",
+              "value": "HELMUT LANG",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "82",
+              "value": "HOGAN",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "202",
+              "value": "HUGO BOSS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "259",
+              "value": "ICEBERG",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "151",
+              "value": "ISSEY MIYAKE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "47",
+              "value": "JEAN PAUL GAULTIER",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "77",
+              "value": "JIL SANDER",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "248",
+              "value": "JOHN GALLIANO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "225",
+              "value": "JOHN RICHMOND",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "180",
+              "value": "JOSEPH",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "242",
+              "value": "LALTRAMODA",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "241",
+              "value": "LES COPAINS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "234",
+              "value": "LIU •JO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "50",
+              "value": "MAISON MARGIELA",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "85",
+              "value": "MALO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "131",
+              "value": "MARC JACOBS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "214",
+              "value": "MARC LE BIHAN",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "247",
+              "value": "MARITHÉ + FRANÇOIS GIRBAUD",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "203",
+              "value": "MARNI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "216",
+              "value": "MASON'S",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "54",
+              "value": "MISSONI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "55",
+              "value": "MIU MIU",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "200",
+              "value": "MONCLER",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "208",
+              "value": "MOSCHINO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "56",
+              "value": "MOSCHINO JEANS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "164",
+              "value": "MURPHY & NYE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "168",
+              "value": "NAPAPIJRI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "57",
+              "value": "NARCISO RODRIGUEZ",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "253",
+              "value": "NEIL BARRETT",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "58",
+              "value": "NEW YORK INDUSTRIE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "148",
+              "value": "NINETTE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "60",
+              "value": "PAUL SMITH",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "194",
+              "value": "PEPE JEANS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "152",
+              "value": "PETER JENSEN",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "209",
+              "value": "PHILOSOPHY di A. F.",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "176",
+              "value": "PINKO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "254",
+              "value": "PLEIN SUD JEANS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "165",
+              "value": "POLO RALPH LAUREN",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "63",
+              "value": "PRADA",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "96",
+              "value": "PRADA SPORT",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "59",
+              "value": "P.A.R.O.S.H.",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "137",
+              "value": "RALPH LAUREN JEANS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "64",
+              "value": "REPLAY",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "65",
+              "value": "ROBERTO CAVALLI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "66",
+              "value": "ROCCO BAROCCO JEANS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "83",
+              "value": "TOD'S",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "201",
+              "value": "TOMMY HILFIGER",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "112",
+              "value": "VALENTINO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "130",
+              "value": "VERONIQUE BRANQUINHO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "71",
+              "value": "VERSACE JEANS COUTURE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "72",
+              "value": "VERSUS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "73",
+              "value": "VIVIENNE WESTWOOD",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "196",
+              "value": "WORKING OVERTIME",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "74",
+              "value": "YOHJI YAMAMOTO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "dsgnrs",
+          "value": "Designer",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "1",
+              "value": "XXS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "2",
+              "value": "XS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": true
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "3",
+              "value": "S",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": true
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "4",
+              "value": "M",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": true
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "5",
+              "value": "L",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": true
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "6",
+              "value": "XL",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": true
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "7",
+              "value": "XXL",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "8",
+              "value": "XXXL",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "tgl",
+          "value": "Taglie",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": true
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "9",
+              "value": "Arancione",
+              "rgb": "DF4E29",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "32",
+              "value": "Beige",
+              "rgb": "CDBD9A",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "6",
+              "value": "Bianco",
+              "rgb": "FFFFFF",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "18",
+              "value": "Blu",
+              "rgb": "214377",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "10",
+              "value": "Giallo",
+              "rgb": "EBD832",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "25",
+              "value": "Grigio",
+              "rgb": "8B949C",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "37",
+              "value": "Marrone",
+              "rgb": "836D5C",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "7",
+              "value": "Nero",
+              "rgb": "000000",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "12",
+              "value": "Rosa",
+              "rgb": "E5A2B5",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "11",
+              "value": "Rosso",
+              "rgb": "A40000",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "8",
+              "value": "Trasparente",
+              "rgb": "ffffff",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "22",
+              "value": "Verde",
+              "rgb": "3C941F",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "14",
+              "value": "Viola",
+              "rgb": "693883",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "clr",
+          "value": "Colori",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "thrpttrn",
+              "value": "Altre Fantasie",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "nmlpttrn",
+              "value": "Animalier",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "cmflgdsg",
+              "value": "Camouflage",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "flrldsgn",
+              "value": "Floreale",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "pnstrpd",
+              "value": "Gessato",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "plkdts",
+              "value": "Pois",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "chckddsg",
+              "value": "Quadri",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "strps",
+              "value": "Righe",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "sldclr",
+              "value": "Tinta unita",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "pttrn1",
+          "value": "Stampa",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "cshmr",
+              "value": "Cachemire",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "ctn",
+              "value": "Cotone",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "fxfr1",
+              "value": "Ecopelliccia",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "ln1",
+              "value": "Lana",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "ln",
+              "value": "Lino",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "bmtrls",
+              "value": "Materiali Eco",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "lthr",
+              "value": "Pelle",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "st",
+              "value": "Seta",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "mtrl",
+          "value": "Materiali",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        }
+      ],
+      "prices": {
+        "max": 2780,
+        "min": 10,
+        "priceMax": 2780,
+        "priceMin": 10,
+        "step": 50
+      }
+    }
+  },
+  "searchRequest": {
+    "priceMin": 0,
+    "priceMax": 0,
+    "attributes": {
+      "ctgr": [
+        "tpwr"
+      ]
+    },
+    "department": "women",
+    "gender": "D",
+    "textSearch": "",
+    "tags": [
+      {
+        "attributes": {
+          "ctgr": [
+            "tpwr"
+          ]
+        },
+        "label": "t-shirt e top",
+        "type": 1
+      },
+      {
+        "attributes": {
+          "tgl": [
+            "4"
+          ]
+        },
+        "label": "M",
+        "type": 1
+      },
+      {
+        "attributes": {
+          "tgl": [
+            "5"
+          ]
+        },
+        "label": "L",
+        "type": 1
+      },
+      {
+        "attributes": {
+          "tgl": [
+            "6"
+          ]
+        },
+        "label": "XL",
+        "type": 1
+      },
+      {
+        "attributes": {
+          "tgl": [
+            "3"
+          ]
+        },
+        "label": "S",
+        "type": 1
+      },
+      {
+        "attributes": {
+          "tgl": [
+            "2"
+          ]
+        },
+        "label": "XS",
+        "type": 1
+      }
+    ],
+    "page": 1,
+    "sortId": 0,
+    "noRef": false,
+    "noItems": false
+  },
+  "notSelectedChips": [
+    {
+      "attributes": {
+        "pttrn1": [
+          "sldclr"
+        ]
+      },
+      "label": "Tinta unita",
+      "selected": false
+    },
+    {
+      "attributes": {
+        "ctgr": [
+          "mglr"
+        ]
+      },
+      "label": "Maglie e Felpe",
+      "selected": false
+    },
+    {
+      "attributes": {
+        "pttrn1": [
+          "thrpttrn"
+        ]
+      },
+      "label": "Altre Fantasie",
+      "selected": false
+    },
+    {
+      "attributes": {
+        "pttrn1": [
+          "flrldsgn"
+        ]
+      },
+      "label": "Floreale",
+      "selected": false
+    },
+    {
+      "attributes": {
+        "pttrn1": [
+          "strps"
+        ]
+      },
+      "label": "Righe",
+      "selected": false
+    },
+    {
+      "attributes": {
+        "pttrn1": [
+          "nmlpttrn"
+        ]
+      },
+      "label": "Animalier",
+      "selected": false
+    },
+    {
+      "attributes": {
+        "pttrn1": [
+          "chckddsg"
+        ]
+      },
+      "label": "Quadri",
+      "selected": false
+    },
+    {
+      "attributes": {
+        "pttrn1": [
+          "plkdts"
+        ]
+      },
+      "label": "Pois",
+      "selected": false
+    },
+    {
+      "attributes": {
+        "pttrn1": [
+          "cmflgdsg"
+        ]
+      },
+      "label": "Camouflage",
+      "selected": false
+    },
+    {
+      "attributes": {
+        "pttrn1": [
+          "pnstrpd"
+        ]
+      },
+      "label": "Gessato",
+      "selected": false
+    }
+  ]
+}

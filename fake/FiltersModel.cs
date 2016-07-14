@@ -4,15 +4,16 @@ namespace fake
 {
     public class FiltersModel
     {
-        private List<DynamicAttribute> attributes;
+        public List<DynamicAttribute> attributes { get; set; }
+
+        public FiltersModel()
+        {
+            attributes = new List<DynamicAttribute>();
+        }
 
         public List<DynamicAttribute> getAttributes()
         {
             return attributes;
-        }
-        public void getAttributes(List<DynamicAttribute> value)
-        {
-            attributes = value;
         }
     }
 }

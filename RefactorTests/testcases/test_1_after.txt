@@ -1,0 +1,1502 @@
+{
+  "warningMessage": "",
+  "analytics": {
+    "totalItems": "496",
+    "totalPages": 13
+  },
+  "department": "women",
+  "items": [
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46448790CB",
+      "formattedDiscountedPrice": "EUR 270,00",
+      "formattedFullPrice": "EUR 270,00",
+      "title": "0MU 11QS RASOIR\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "PRADA",
+      "cod10": "46448758BK",
+      "formattedDiscountedPrice": "EUR 210,00",
+      "formattedFullPrice": "EUR 210,00",
+      "title": "0PR 27NS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46448865MQ",
+      "formattedDiscountedPrice": "EUR 270,00",
+      "formattedFullPrice": "EUR 270,00",
+      "title": "0MU 12QS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46448760MQ",
+      "formattedDiscountedPrice": "EUR 250,00",
+      "formattedFullPrice": "EUR 250,00",
+      "title": "0MU 07RS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46448858UQ",
+      "formattedDiscountedPrice": "EUR 270,00",
+      "formattedFullPrice": "EUR 270,00",
+      "title": "0MU 04RS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46448688HT",
+      "formattedDiscountedPrice": "EUR 230,00",
+      "formattedFullPrice": "EUR 230,00",
+      "title": "0MU 11OS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "PRADA",
+      "cod10": "46458140CT",
+      "formattedDiscountedPrice": "EUR 230,00",
+      "formattedFullPrice": "EUR 230,00",
+      "title": "PR 11RS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "PRADA",
+      "cod10": "46448951JG",
+      "formattedDiscountedPrice": "EUR 230,00",
+      "formattedFullPrice": "EUR 230,00",
+      "title": "0PR 16QS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MICHAEL KORS",
+      "cod10": "46464451OL",
+      "formattedDiscountedPrice": "EUR 170,00",
+      "formattedFullPrice": "EUR 170,00",
+      "title": "MK5017 KENDALL II\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "RAY-BAN",
+      "cod10": "46456147KC",
+      "formattedDiscountedPrice": "EUR 199,00",
+      "formattedFullPrice": "EUR 199,00",
+      "title": "RB4246 CLUBROUND\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "PRADA",
+      "cod10": "46459790TH",
+      "formattedDiscountedPrice": "EUR 270,00",
+      "formattedFullPrice": "EUR 270,00",
+      "title": "PR 53SS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46459977DV",
+      "formattedDiscountedPrice": "EUR 290,00",
+      "formattedFullPrice": "EUR 290,00",
+      "title": "MU 54QS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "DOLCE & GABBANA",
+      "cod10": "46458250BP",
+      "formattedDiscountedPrice": "EUR 180,00",
+      "formattedFullPrice": "EUR 180,00",
+      "title": "DG4270 \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "RAY-BAN",
+      "cod10": "46460015UD",
+      "formattedDiscountedPrice": "EUR 169,00",
+      "formattedFullPrice": "EUR 169,00",
+      "title": "RB2447 \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "DOLCE & GABBANA",
+      "cod10": "46451708PN",
+      "formattedDiscountedPrice": "EUR 182,00",
+      "formattedFullPrice": "EUR 182,00",
+      "title": "0DG4236\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "DOLCE & GABBANA",
+      "cod10": "46468653QS",
+      "formattedDiscountedPrice": "EUR 160,00",
+      "formattedFullPrice": "EUR 160,00",
+      "title": "DG4279 ",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MARC BY MARC JACOBS",
+      "cod10": "46436663MG",
+      "formattedDiscountedPrice": "EUR 210,00",
+      "formattedFullPrice": "EUR 210,00",
+      "title": "MMJ 435/S\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "PRADA",
+      "cod10": "46458531BV",
+      "formattedDiscountedPrice": "EUR 270,00",
+      "formattedFullPrice": "EUR 270,00",
+      "title": "PR 09QS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "DOLCE & GABBANA",
+      "cod10": "46458269SC",
+      "formattedDiscountedPrice": "EUR 250,00",
+      "formattedFullPrice": "EUR 250,00",
+      "title": "DG4277 \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MARC BY MARC JACOBS",
+      "cod10": "46437565CT",
+      "formattedDiscountedPrice": "EUR 190,00",
+      "formattedFullPrice": "EUR 190,00",
+      "title": "MMJ 396/S\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "RALPH LAUREN",
+      "cod10": "46432316OC",
+      "formattedDiscountedPrice": "EUR 180,00",
+      "formattedFullPrice": "EUR 180,00",
+      "title": "RL8127B\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "PRADA",
+      "cod10": "46448810OW",
+      "formattedDiscountedPrice": "EUR 190,00",
+      "formattedFullPrice": "EUR 190,00",
+      "title": "0PR 17OS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "DOLCE & GABBANA",
+      "cod10": "46422601RU",
+      "formattedDiscountedPrice": "EUR 141,00",
+      "formattedFullPrice": "EUR 141,00",
+      "title": "DG4248 \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "VOGUE",
+      "cod10": "46454100IA",
+      "formattedDiscountedPrice": "EUR 89,00",
+      "formattedFullPrice": "EUR 126,00",
+      "title": "VO2889S \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "DOLCE & GABBANA",
+      "cod10": "46394450BV",
+      "formattedDiscountedPrice": "EUR 222,00",
+      "formattedFullPrice": "EUR 222,00",
+      "title": "",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "VOGUE",
+      "cod10": "46357332IE",
+      "formattedDiscountedPrice": "EUR 85,00",
+      "formattedFullPrice": "EUR 100,00",
+      "title": "VO2757S",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "PRADA",
+      "cod10": "46448749OO",
+      "formattedDiscountedPrice": "EUR 190,00",
+      "formattedFullPrice": "EUR 190,00",
+      "title": "0PR 29RS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46448681LS",
+      "formattedDiscountedPrice": "EUR 250,00",
+      "formattedFullPrice": "EUR 250,00",
+      "title": "0MU 13NS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MICHAEL KORS",
+      "cod10": "46397293MW",
+      "formattedDiscountedPrice": "EUR 260,00",
+      "formattedFullPrice": "EUR 260,00",
+      "title": "MK2002QM BRAZIL",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "BURBERRY",
+      "cod10": "46469392AG",
+      "formattedDiscountedPrice": "EUR 250,00",
+      "formattedFullPrice": "EUR 250,00",
+      "title": "BE4220\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MICHAEL KORS",
+      "cod10": "46397275HB",
+      "formattedDiscountedPrice": "EUR 220,00",
+      "formattedFullPrice": "EUR 220,00",
+      "title": "MK2005 CANEEL",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "BURBERRY",
+      "cod10": "46469402WA",
+      "formattedDiscountedPrice": "EUR 240,00",
+      "formattedFullPrice": "EUR 240,00",
+      "title": "BE4207\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "BURBERRY",
+      "cod10": "46469344DV",
+      "formattedDiscountedPrice": "EUR 240,00",
+      "formattedFullPrice": "EUR 240,00",
+      "title": "BE4207\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46448683FN",
+      "formattedDiscountedPrice": "EUR 270,00",
+      "formattedFullPrice": "EUR 270,00",
+      "title": "0MU 02RS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "DOLCE & GABBANA",
+      "cod10": "46428947AU",
+      "formattedDiscountedPrice": "EUR 303,00",
+      "formattedFullPrice": "EUR 303,00",
+      "title": "DG4264\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46464449NB",
+      "formattedDiscountedPrice": "EUR 250,00",
+      "formattedFullPrice": "EUR 250,00",
+      "title": "MU 03QS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46458528BB",
+      "formattedDiscountedPrice": "EUR 250,00",
+      "formattedFullPrice": "EUR 250,00",
+      "title": "MU 03QS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46448785RB",
+      "formattedDiscountedPrice": "EUR 270,00",
+      "formattedFullPrice": "EUR 270,00",
+      "title": "0MU 04RS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "MIU MIU",
+      "cod10": "46448764JM",
+      "formattedDiscountedPrice": "EUR 270,00",
+      "formattedFullPrice": "EUR 270,00",
+      "title": "0MU 10NS \r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    },
+    {
+      "badgeSearchResult": {
+        "description": "",
+        "img": "",
+        "promotionLabel": "",
+        "active": false
+      },
+      "brand": "BURBERRY",
+      "cod10": "46469455QN",
+      "formattedDiscountedPrice": "EUR 220,00",
+      "formattedFullPrice": "EUR 220,00",
+      "title": "BE4219\r\n",
+      "microCategory": "Occhiali da sole",
+      "soldOut": false
+    }
+  ],
+  "refinements": {
+    "breadCrumbs": {
+      "breadcrumbs": [
+        {
+          
+        },
+        {
+          
+        },
+        {
+          
+        },
+        {
+          
+        },
+        {
+          
+        }
+      ]
+    },
+    "filters": {
+      "attributes": [
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "jstn3",
+              "value": "Ultimi arrivi",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "clthngpdw",
+          "value": "Ultime news",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "",
+              "value": "",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "przz",
+          "value": "Prezzo",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cchl1",
+                  "value": "Occhiali da sole",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "ccssr",
+              "value": "Accessori",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "cchldsl",
+                  "value": "Occhiali da sole",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "cchl",
+              "value": "Occhiali da sole",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": true
+            }
+          ],
+          "code": "ctgr",
+          "value": "Categorie",
+          "rgb": "",
+          "refinements": [
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "hrtrf",
+                  "value": "a Cuore",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": true
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vlrf",
+                  "value": "Ovale",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": true
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "sqrdrf",
+                  "value": "Quadrato",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": true
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rndrf",
+                  "value": "Rotondo",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": true
+                }
+              ],
+              "code": "fcshprf",
+              "value": "FORMA DEL VISO",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": true
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "ctstlrf",
+                  "value": "Stile a gatto",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vtrpltstrf",
+                  "value": "Stile a goccia",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "vlstlrf",
+                  "value": "Stile ovale",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "sqrstlrf",
+                  "value": "Stile rettangolare",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "rndstlrf",
+                  "value": "Stile rotondo",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "frmshprf",
+              "value": "FRAME SHAPE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "mtllcfrmrf",
+                  "value": "Montatura  in metallo",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "plstcfrmrf",
+                  "value": "Montatura in plastica",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "frmmtrlsrf",
+              "value": "MONTATURE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "plstclnsrf",
+                  "value": "Lente in plastica",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "plcrbntlrf",
+                  "value": "Lente in policarbonato",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                },
+                {
+                  "attributes": [
+                    
+                  ],
+                  "code": "glsslnssrf",
+                  "value": "Lente in vetro",
+                  "rgb": "",
+                  "refinements": [
+                    
+                  ],
+                  "selected": false
+                }
+              ],
+              "code": "mtrllntrf",
+              "value": "MATERIALE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "selected": true
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "2111",
+              "value": "ARNETTE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "28997",
+              "value": "BURBERRY",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "6489",
+              "value": "CARRERA",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "28265",
+              "value": "COACH",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "25",
+              "value": "DOLCE & GABBANA",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "128",
+              "value": "EMPORIO ARMANI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "150",
+              "value": "GIORGIO ARMANI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "42",
+              "value": "GUCCI",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "5298",
+              "value": "MARC BY MARC JACOBS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "403",
+              "value": "MICHAEL KORS",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "55",
+              "value": "MIU MIU",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "11218",
+              "value": "OAKLEY",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "60",
+              "value": "PAUL SMITH",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "756",
+              "value": "PERSOL",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "165",
+              "value": "POLO RALPH LAUREN",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "63",
+              "value": "PRADA",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "34188",
+              "value": "RALPH",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "665",
+              "value": "RALPH LAUREN",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "2972",
+              "value": "RAY-BAN",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "1501",
+              "value": "STELLA MCCARTNEY",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "15766",
+              "value": "TIFFANY & CO.",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "1889",
+              "value": "VERSACE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "1878",
+              "value": "VOGUE",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "dsgnrs",
+          "value": "Designer",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        },
+        {
+          "attributes": [
+            
+          ],
+          "code": "tgl",
+          "value": "Taglie",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "9",
+              "value": "Arancione",
+              "rgb": "DF4E29",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "32",
+              "value": "Beige",
+              "rgb": "CDBD9A",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "6",
+              "value": "Bianco",
+              "rgb": "FFFFFF",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "18",
+              "value": "Blu",
+              "rgb": "214377",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "10",
+              "value": "Giallo",
+              "rgb": "EBD832",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "25",
+              "value": "Grigio",
+              "rgb": "8B949C",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "37",
+              "value": "Marrone",
+              "rgb": "836D5C",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "7",
+              "value": "Nero",
+              "rgb": "000000",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "12",
+              "value": "Rosa",
+              "rgb": "E5A2B5",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "11",
+              "value": "Rosso",
+              "rgb": "A40000",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "8",
+              "value": "Trasparente",
+              "rgb": "ffffff",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "22",
+              "value": "Verde",
+              "rgb": "3C941F",
+              "refinements": [
+                
+              ],
+              "selected": false
+            },
+            {
+              "attributes": [
+                
+              ],
+              "code": "14",
+              "value": "Viola",
+              "rgb": "693883",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "clr",
+          "value": "Colori",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        },
+        {
+          "attributes": [
+            {
+              "attributes": [
+                
+              ],
+              "code": "sldclr",
+              "value": "Tinta unita",
+              "rgb": "",
+              "refinements": [
+                
+              ],
+              "selected": false
+            }
+          ],
+          "code": "pttrn1",
+          "value": "Stampa",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        },
+        {
+          "attributes": [
+            
+          ],
+          "code": "mtrl",
+          "value": "Materiali",
+          "rgb": "",
+          "refinements": [
+            
+          ],
+          "selected": false
+        }
+      ],
+      "prices": {
+        "max": 350,
+        "min": 60,
+        "priceMax": 350,
+        "priceMin": 60,
+        "step": 10
+      }
+    }
+  },
+  "searchRequest": {
+    "priceMin": 0,
+    "priceMax": 0,
+    "attributes": {
+      "fcshprf": [
+        "sqrdrf",
+        "rndrf",
+        "vlrf",
+        "hrtrf",
+        "fcshprf"
+      ],
+      "ctgr": [
+        "cchl"
+      ]
+    },
+    "department": "women",
+    "gender": "D",
+    "textSearch": "",
+    "tags": [
+      {
+        "attributes": {
+          "ctgr": [
+            "cchl"
+          ]
+        },
+        "label": "occhiali da sole",
+        "type": 1
+      }
+    ],
+    "page": 1,
+    "sortId": 0,
+    "noRef": false,
+    "noItems": false
+  },
+  "notSelectedChips": [
+    {
+      "attributes": {
+        "pttrn1": [
+          "sldclr"
+        ]
+      },
+      "label": "Tinta unita",
+      "selected": false
+    }
+  ]
+}

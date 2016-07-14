@@ -6,7 +6,7 @@ namespace fake
     {
         public static string FILTER_CODE_CATEGORY = "ctgr";
 
-        private Dictionary<string, List<string>> attributes;
+        public Dictionary<string, List<string>> attributes { get; set; }
 
         public Filters()
         {
@@ -17,11 +17,6 @@ namespace fake
         {
             return attributes;
         }
-        public void getAttributes(Dictionary<string, List<string>> value)
-        {
-            attributes = value;
-        }
-
 
         public void addValueToAttribute(string attributeName, string value)
         {

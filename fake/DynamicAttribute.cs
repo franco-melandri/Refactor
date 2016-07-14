@@ -4,10 +4,23 @@ namespace fake
 {
     public class DynamicAttribute
     {
-        private bool selected;
-        private string code;
-        private List<DynamicAttribute> attributes;
-        private List<DynamicAttribute> refinements;
+        public bool selected { get; set; }
+        public string code { get; set; }
+        public List<DynamicAttribute> attributes { get; set; }
+        public List<DynamicAttribute> refinements { get; set; }
+
+        public DynamicAttribute()
+        {
+            attributes = new List<DynamicAttribute>();
+            refinements = new List<DynamicAttribute>();
+        }
+
+        public DynamicAttribute(bool selected, string code)
+            : this()
+        {
+            this.selected = selected;
+            this.code = code;
+        }
 
         public bool isSelected()
         {
@@ -31,19 +44,10 @@ namespace fake
         {
             return attributes;
         }
-        public void getAttributes(List<DynamicAttribute> value)
-        {
-            attributes = value;
-        }
 
         public List<DynamicAttribute> getRefinements()
         {
             return refinements;
         }
-        public void setRefinements(List<DynamicAttribute> value)
-        {
-            refinements = value;
-        }
-
     }
 }

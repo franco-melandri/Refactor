@@ -7,7 +7,6 @@ namespace fake
         // TODO to be removed when Franco adds attributes to SearchRequest
         public void fillAttributes(GetSearchResultResponse catalog)
         {
-
             if (catalog.getRefinements() != null)
             {
                 if (catalog.getRefinements().getFilters() != null)
@@ -40,7 +39,7 @@ namespace fake
                             }
 
                             // Check Refinements attributes under "ctgr" Attributes
-                            if (code.CompareTo(Filters.FILTER_CODE_CATEGORY) != 0)
+                            if (code == Filters.FILTER_CODE_CATEGORY)
                             {
                                 if (a.getRefinements() != null && !a.getRefinements().isEmpty())
                                 {
@@ -73,6 +72,10 @@ namespace fake
                     }
                 }
             }
+        }
+
+        public void fillAttributesRefactored(GetSearchResultResponse catalog)
+        {
         }
     }
 }

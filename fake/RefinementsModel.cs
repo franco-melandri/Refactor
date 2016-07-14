@@ -2,15 +2,16 @@
 {
     public class RefinementsModel
     {
-        private FiltersModel filters;
+        public FiltersModel filters { get; set; }
+
+        public RefinementsModel()
+        {
+            filters = new FiltersModel();
+        }
 
         public FiltersModel getFilters()
         {
             return filters;
-        }
-        public void setFilters(FiltersModel value)
-        {
-            filters = value;
         }
     }
 }
