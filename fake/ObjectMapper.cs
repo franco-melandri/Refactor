@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace fake
 {
@@ -92,24 +93,22 @@ namespace fake
 
                 if (!a.isSelected()) continue;
 
-                thirdStep(a, searchRequest);
+                thirdStep(a, searchRequest, a.getAttributes());
 
                 // Check Refinements attributes under "ctgr" Attributes
                 if (a.getCode() == Filters.FILTER_CODE_CATEGORY)
                 {
                     if (a.getRefinements() == null) continue;
 
-                    FourthStep(a, searchRequest);
+                    FourthStep(a, searchRequest, a.getRefinements());
                 }
             }
         }
 
-        private static void FourthStep(DynamicAttribute a, Filters searchRequest)
+        private static void FourthStep(DynamicAttribute a, Filters searchRequest, List<DynamicAttribute> list)
         {
-            foreach (DynamicAttribute ar in a.getRefinements())
+            foreach (DynamicAttribute ar in list)
             {
-                String code = ar.getCode();
-
                 var attributes = ar.getAttributes();
 
                 if (attributes == null) continue;
@@ -118,23 +117,19 @@ namespace fake
                 {
                     if (aar.isSelected())
                     {
-                        searchRequest
-                            .addValueToAttribute(code, aar.getCode());
+                        searchRequest.addValueToAttribute(ar.getCode(), aar.getCode());
                     }
                 }
                 if (ar.isSelected())
                 {
-                    searchRequest.addValueToAttribute(code,
-                        ar.getCode());
+                    searchRequest.addValueToAttribute(ar.getCode(), ar.getCode());
                 }
             }
         }
 
-        private static void thirdStep(DynamicAttribute a, Filters searchRequest)
+        private static void thirdStep(DynamicAttribute a, Filters searchRequest, List<DynamicAttribute> list)
         {
-            String code = a.getCode();
-
-            foreach (DynamicAttribute aa in a.getAttributes())
+            foreach (DynamicAttribute aa in list)
             {
                 var attributes = aa.getAttributes();
 
@@ -144,13 +139,13 @@ namespace fake
                 {
                     if (aaa.isSelected())
                     {
-                        searchRequest.addValueToAttribute(code, aaa.getCode());
+                        searchRequest.addValueToAttribute(a.getCode(), aaa.getCode());
                     }
                 }
 
                 if (aa.isSelected())
                 {
-                    searchRequest.addValueToAttribute(code, aa.getCode());
+                    searchRequest.addValueToAttribute(a.getCode(), aa.getCode());
                 }
             }
         }
