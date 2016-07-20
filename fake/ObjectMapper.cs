@@ -82,63 +82,60 @@ namespace fake
 
 
             var dynamicAttributes = catalog.getRefinements().getFilters().getAttributes();
+            if (dynamicAttributes == null) return;
+
             var searchRequest = catalog.getSearchRequest();
 
             foreach (DynamicAttribute a in dynamicAttributes)
             {
-                if (a.isSelected())
-                {
-                    String code = a.getCode();
-                    foreach (DynamicAttribute aa in a.getAttributes())
-                    {
-                        if (!aa.getAttributes().isEmpty())
-                        {
-                            foreach (DynamicAttribute aaa in aa.getAttributes())
-                            {
-                                if (aaa != null)
-                                {
-                                    if (aaa.isSelected())
-                                    {
-                                        searchRequest.addValueToAttribute(code, aaa.getCode());
-                                    }
-                                }
-                            }
-                        }
+                if (a.getAttributes() == null) continue;
 
-                        if (aa.isSelected())
+                if (!a.isSelected()) continue;
+
+                String code = a.getCode();
+                foreach (DynamicAttribute aa in a.getAttributes())
+                {
+                    if (aa.getAttributes() == null) continue;
+
+                    foreach (DynamicAttribute aaa in aa.getAttributes())
+                    {
+                        if (aaa.isSelected())
                         {
-                            searchRequest.addValueToAttribute(code, aa.getCode());
+                            searchRequest.addValueToAttribute(code, aaa.getCode());
                         }
                     }
 
-                    // Check Refinements attributes under "ctgr" Attributes
-                    if (code == Filters.FILTER_CODE_CATEGORY)
+                    if (aa.isSelected())
                     {
-                        if (a.getRefinements() != null && !a.getRefinements().isEmpty())
+                        searchRequest.addValueToAttribute(code, aa.getCode());
+                    }
+                }
+
+                // Check Refinements attributes under "ctgr" Attributes
+                if (code == Filters.FILTER_CODE_CATEGORY)
+                {
+                    if (a.getRefinements() == null) continue;
+
+                    foreach (DynamicAttribute ar in a.getRefinements())
+                    {
+                        code = ar.getCode();
+
+                        var attributes = ar.getAttributes();
+                        
+                        if (attributes == null) continue;
+
+                        foreach (DynamicAttribute aar in attributes)
                         {
-                            foreach (DynamicAttribute ar in a.getRefinements())
+                            if (aar.isSelected())
                             {
-                                code = ar.getCode();
-                                if (!ar.getAttributes().isEmpty())
-                                {
-                                    foreach (DynamicAttribute aar in ar.getAttributes())
-                                    {
-                                        if (aar != null)
-                                        {
-                                            if (aar.isSelected())
-                                            {
-                                                searchRequest
-                                                    .addValueToAttribute(code, aar.getCode());
-                                            }
-                                        }
-                                    }
-                                }
-                                if (ar.isSelected())
-                                {
-                                    searchRequest.addValueToAttribute(code,
-                                        ar.getCode());
-                                }
+                                searchRequest
+                                    .addValueToAttribute(code, aar.getCode());
                             }
+                        }
+                        if (ar.isSelected())
+                        {
+                            searchRequest.addValueToAttribute(code,
+                                ar.getCode());
                         }
                     }
                 }
