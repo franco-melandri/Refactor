@@ -92,52 +92,65 @@ namespace fake
 
                 if (!a.isSelected()) continue;
 
-                String code = a.getCode();
-                foreach (DynamicAttribute aa in a.getAttributes())
-                {
-                    if (aa.getAttributes() == null) continue;
-
-                    foreach (DynamicAttribute aaa in aa.getAttributes())
-                    {
-                        if (aaa.isSelected())
-                        {
-                            searchRequest.addValueToAttribute(code, aaa.getCode());
-                        }
-                    }
-
-                    if (aa.isSelected())
-                    {
-                        searchRequest.addValueToAttribute(code, aa.getCode());
-                    }
-                }
+                thirdStep(a, searchRequest);
 
                 // Check Refinements attributes under "ctgr" Attributes
-                if (code == Filters.FILTER_CODE_CATEGORY)
+                if (a.getCode() == Filters.FILTER_CODE_CATEGORY)
                 {
                     if (a.getRefinements() == null) continue;
 
-                    foreach (DynamicAttribute ar in a.getRefinements())
+                    FourthStep(a, searchRequest);
+                }
+            }
+        }
+
+        private static void FourthStep(DynamicAttribute a, Filters searchRequest)
+        {
+            foreach (DynamicAttribute ar in a.getRefinements())
+            {
+                String code = ar.getCode();
+
+                var attributes = ar.getAttributes();
+
+                if (attributes == null) continue;
+
+                foreach (DynamicAttribute aar in attributes)
+                {
+                    if (aar.isSelected())
                     {
-                        code = ar.getCode();
-
-                        var attributes = ar.getAttributes();
-                        
-                        if (attributes == null) continue;
-
-                        foreach (DynamicAttribute aar in attributes)
-                        {
-                            if (aar.isSelected())
-                            {
-                                searchRequest
-                                    .addValueToAttribute(code, aar.getCode());
-                            }
-                        }
-                        if (ar.isSelected())
-                        {
-                            searchRequest.addValueToAttribute(code,
-                                ar.getCode());
-                        }
+                        searchRequest
+                            .addValueToAttribute(code, aar.getCode());
                     }
+                }
+                if (ar.isSelected())
+                {
+                    searchRequest.addValueToAttribute(code,
+                        ar.getCode());
+                }
+            }
+        }
+
+        private static void thirdStep(DynamicAttribute a, Filters searchRequest)
+        {
+            String code = a.getCode();
+
+            foreach (DynamicAttribute aa in a.getAttributes())
+            {
+                var attributes = aa.getAttributes();
+
+                if (attributes == null) continue;
+
+                foreach (DynamicAttribute aaa in attributes)
+                {
+                    if (aaa.isSelected())
+                    {
+                        searchRequest.addValueToAttribute(code, aaa.getCode());
+                    }
+                }
+
+                if (aa.isSelected())
+                {
+                    searchRequest.addValueToAttribute(code, aa.getCode());
                 }
             }
         }
