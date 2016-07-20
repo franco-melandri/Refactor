@@ -43,7 +43,12 @@ namespace RefactorTests
         [TestCase("test_2_before.txt", "test_2_after.txt")]
         public void ShouldLoadTestCaseAndVerifyOutput(string input, string output)
         {
-            var fileInput = File.OpenText(@"C:\Work\Projects\LnLs\Refactor\RefactorTests\testcases\" + input);
+            var folder = AppDomain.CurrentDomain.BaseDirectory;
+            folder = Path.GetDirectoryName(folder);
+            folder = Path.GetDirectoryName(folder);
+            folder = Path.Combine(folder, "testcases");
+
+            var fileInput = File.OpenText(Path.Combine(folder, input));
             var jsonInput = fileInput.ReadToEnd();
             fileInput.Close();
 
@@ -51,7 +56,7 @@ namespace RefactorTests
             sut.fillAttributes(response);
 
             var after = response.ToJson();
-            var fileOutput= File.OpenText(@"C:\Work\Projects\LnLs\Refactor\RefactorTests\testcases\" + output);
+            var fileOutput = File.OpenText(Path.Combine(folder, output));
             var jsonOuput = fileOutput.ReadToEnd();
             fileInput.Close();
             var outputModel = jsonOuput.FromJson();
