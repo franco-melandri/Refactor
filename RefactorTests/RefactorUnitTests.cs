@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using fake;
 using NUnit.Framework;
 
@@ -35,6 +36,27 @@ namespace RefactorTests
             Console.WriteLine(after);
 
             Assert.AreNotEqual(before, after);
+        }
+
+        [Test]
+        [TestCase("test_1_before.txt", "test_1_after.txt")]
+        [TestCase("test_2_before.txt", "test_2_after.txt")]
+        public void ShouldLoadTestCaseAndVerifyOutput(string input, string output)
+        {
+            var fileInput = File.OpenText(@"C:\Work\Projects\LnLs\Refactor\RefactorTests\testcases\" + input);
+            var jsonInput = fileInput.ReadToEnd();
+            fileInput.Close();
+
+            var response = jsonInput.FromJson();
+            sut.fillAttributes(response);
+
+            var after = response.ToJson();
+            var fileOutput= File.OpenText(@"C:\Work\Projects\LnLs\Refactor\RefactorTests\testcases\" + output);
+            var jsonOuput = fileOutput.ReadToEnd();
+            fileInput.Close();
+            var outputModel = jsonOuput.FromJson();
+
+            Assert.AreEqual(after, outputModel.ToJson());
         }
 
         [Test]

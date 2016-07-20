@@ -15,5 +15,15 @@ namespace RefactorTests
                 return tw.ToString();
             }
         }
+
+        public static GetSearchResultResponse FromJson(this string json)
+        {
+            var serialize = new JsonSerializer();
+            using (var tw = new StringReader(json))
+            {
+                var response = serialize.Deserialize(tw, typeof(GetSearchResultResponse));
+                return (GetSearchResultResponse)response;
+            }
+        }
     }
 }
