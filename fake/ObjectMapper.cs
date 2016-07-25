@@ -89,19 +89,11 @@ namespace fake
 
             foreach (DynamicAttribute a in dynamicAttributes)
             {
-                if (a.getAttributes() == null) continue;
-
                 if (!a.isSelected()) continue;
 
-                thirdStep(a.getCode(), searchRequest, a.getAttributes());
+                addAttributesToSearchRequest(a.getCode(), searchRequest, a.getAttributes());
 
-                // Check Refinements attributes under "ctgr" Attributes
-                if (a.getCode() == Filters.FILTER_CODE_CATEGORY)
-                {
-                    if (a.getRefinements() == null) continue;
-
-                    FourthStep(searchRequest, a.getRefinements());
-                }
+                addCategoryRefinementsToSeacrhRequest(searchRequest, a.getRefinements());
             }
         }
 
@@ -112,32 +104,36 @@ namespace fake
 
             if (attributes == null) return;
 
+            AddValieIFSelected(key, searchRequest, ar);
             foreach (DynamicAttribute aar in attributes)
             {
-                if (aar.isSelected())
-                {
-                    searchRequest.addValueToAttribute(key, aar.getCode());
-                }
-            }
-            if (ar.isSelected())
-            {
-                searchRequest.addValueToAttribute(key, ar.getCode());
+                AddValieIFSelected(key, searchRequest, aar);
             }
         }
 
-        private static void FourthStep( Filters searchRequest, List<DynamicAttribute> list)
+        private static void AddValieIFSelected(string key, Filters searchRequest, DynamicAttribute aar)
         {
-            foreach (DynamicAttribute ar in list)
+            if (!aar.isSelected()) return;
+            searchRequest.addValueToAttribute(key, aar.getCode());
+        }
+
+        private static void addCategoryRefinementsToSeacrhRequest( Filters searchRequest, List<DynamicAttribute> list)
+        {
+            if (list == null) return;
+
+            foreach (DynamicAttribute refinement in list)
             {
-                AddValue(ar.getCode(), searchRequest, ar);
+                AddValue(refinement.getCode(), searchRequest, refinement);
             }
         }
 
-        private static void thirdStep(String key, Filters searchRequest, List<DynamicAttribute> list)
+        private static void addAttributesToSearchRequest(String key, Filters searchRequest, List<DynamicAttribute> list)
         {
-            foreach (DynamicAttribute aa in list)
+            if (list == null) return;
+
+            foreach (DynamicAttribute attribute in list)
             {
-                AddValue(key, searchRequest, aa);
+                AddValue(key, searchRequest, attribute);
             }
         }
     }
