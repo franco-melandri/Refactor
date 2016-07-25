@@ -93,60 +93,51 @@ namespace fake
 
                 if (!a.isSelected()) continue;
 
-                thirdStep(a, searchRequest, a.getAttributes());
+                thirdStep(a.getCode(), searchRequest, a.getAttributes());
 
                 // Check Refinements attributes under "ctgr" Attributes
                 if (a.getCode() == Filters.FILTER_CODE_CATEGORY)
                 {
                     if (a.getRefinements() == null) continue;
 
-                    FourthStep(a, searchRequest, a.getRefinements());
+                    FourthStep(searchRequest, a.getRefinements());
                 }
             }
         }
 
-        private static void FourthStep(DynamicAttribute a, Filters searchRequest, List<DynamicAttribute> list)
+
+        private static void AddValue(string key, Filters searchRequest, DynamicAttribute ar)
+        {
+            var attributes = ar.getAttributes();
+
+            if (attributes == null) return;
+
+            foreach (DynamicAttribute aar in attributes)
+            {
+                if (aar.isSelected())
+                {
+                    searchRequest.addValueToAttribute(key, aar.getCode());
+                }
+            }
+            if (ar.isSelected())
+            {
+                searchRequest.addValueToAttribute(key, ar.getCode());
+            }
+        }
+
+        private static void FourthStep( Filters searchRequest, List<DynamicAttribute> list)
         {
             foreach (DynamicAttribute ar in list)
             {
-                var attributes = ar.getAttributes();
-
-                if (attributes == null) continue;
-
-                foreach (DynamicAttribute aar in attributes)
-                {
-                    if (aar.isSelected())
-                    {
-                        searchRequest.addValueToAttribute(ar.getCode(), aar.getCode());
-                    }
-                }
-                if (ar.isSelected())
-                {
-                    searchRequest.addValueToAttribute(ar.getCode(), ar.getCode());
-                }
+                AddValue(ar.getCode(), searchRequest, ar);
             }
         }
 
-        private static void thirdStep(DynamicAttribute a, Filters searchRequest, List<DynamicAttribute> list)
+        private static void thirdStep(String key, Filters searchRequest, List<DynamicAttribute> list)
         {
             foreach (DynamicAttribute aa in list)
             {
-                var attributes = aa.getAttributes();
-
-                if (attributes == null) continue;
-
-                foreach (DynamicAttribute aaa in attributes)
-                {
-                    if (aaa.isSelected())
-                    {
-                        searchRequest.addValueToAttribute(a.getCode(), aaa.getCode());
-                    }
-                }
-
-                if (aa.isSelected())
-                {
-                    searchRequest.addValueToAttribute(a.getCode(), aa.getCode());
-                }
+                AddValue(key, searchRequest, aa);
             }
         }
     }
